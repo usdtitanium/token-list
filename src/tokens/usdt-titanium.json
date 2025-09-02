@@ -1,0 +1,23 @@
+{
+  "chainId": 103,
+  "address": "Catz1SPHVWrTMRd5jVtCYEHoAXSkoWBeZX147ah6TdM8",
+  "symbol": "USDT",
+  "name": "USDT United State Dollar Titan",
+  "decimals": 9,
+  "logoURI": "https://hiephvqzxjfd2skrzsqi6tmclap4duecklfc7aj3t6huaclck4va.arweave.net/Ogjz1hm6Sj1JUcygj02CWB_B0IJSyi-BO5-PQAliVyo",
+  "tags": [
+    "utility",
+    "defi",
+    "payments"
+  ],
+  "extensions": {
+    "website": "https://usdtcoin.online",
+    "twitter": "https://x.com/USDTitanium",
+    "telegram": "https://t.me/usdtitanium",
+    "discord": "https://discord.gg/1412201878959292518",
+    "github": "https://github.com/usdtitanium",
+    "gitlab": "https://gitlab.com/groups/usdtitanium-group",
+    "medium": "https://medium.com/@usdtitanium",
+    "whitepaper": "https://github.com/usdtitanium/USD-Titanium-White-Paper"
+  }
+}
